@@ -1,6 +1,6 @@
 {
 	"functions": {
-		"Telegram_Bot/index.php": {
+		"index.php": {
 			"runtime": "vercel-php@0.6.0"
 		}
 	}
